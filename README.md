@@ -3,7 +3,6 @@ I was an avid anime fan/watcher and this lead me to pursue this project of creat
 
 ## Libraries Needed:
 - Pandas
-- Fuzzywuzzy
 
 ## Resources and Data Used
 Data was downloaded from https://www.kaggle.com/CooperUnion/anime-recommendations-database
