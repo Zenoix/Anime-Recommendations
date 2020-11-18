@@ -5,7 +5,7 @@ I was an avid anime fan/watcher and this lead me to pursue this project of creat
 
 ## What I learnt:
 - How to replace missing or sub-optimal values in a dataset
-- Create pairplot using seaborn for compare numerical data
+- Creating pairplot using seaborn to compare numerical data and distributions
 
 ## Included Files:
 - Data Cleaning.ipynb (Notebook for cleaning the anime and ratings datasets that will be used)
