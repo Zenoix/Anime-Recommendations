@@ -6,19 +6,11 @@ I was an avid anime fan/watcher and this lead me to pursue this project of creat
 ## What I learnt:
 - How to replace missing or sub-optimal values in a dataset
 - Creating pairplot using seaborn to compare numerical data and distributions
+- Use pandas and collections' counter to analyse frequency of values of multiple elements in strings.
 
 ## Included Files:
 - Data Cleaning.ipynb (Notebook for cleaning the anime and ratings datasets that will be used)
-- Exploratory Data Analysis.ipynb
-
-## Libraries Used:
-- Pandas
-- Numpy
-- Seaborn
-- Matplotlib
-
-## Resources and Data Used
-Data was downloaded from https://www.kaggle.com/CooperUnion/anime-recommendations-database
+- Exploratory Data Analysis.ipynb (Exploring the data and trying to extract insights and patterns before building the recommendation system)
 
 ## Resources and Datasets Used
 
