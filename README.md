@@ -19,4 +19,5 @@ I was an avid anime fan/watcher and this lead me to pursue this project of creat
 **Packages:** pandas, numpy, matplotlib, seaborn
 
 #### Anime and Rating Datasets
-Data was downloaded from https://www.kaggle.com/CooperUnion/anime-recommendations-database
+Data was downloaded from https://www.kaggle.com/CooperUnion/anime-recommendations-database.
+If you want to download the data from this repository and not the original source, you will need to either manually download them from Github, or install [Git LFS](https://git-lfs.github.com/) to download the data.
