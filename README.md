@@ -1,7 +1,7 @@
 # Anime-Recommendations-Project
 
 ## Introduction
-I was an avid anime fan/watcher and this lead me to pursue this project of creating a recommendation system for animes a user may enjoy based on their enjoyment of similar animes.
+I was an avid anime fan and this lead me to pursue this project of creating a recommendation system for animes a user may enjoy based on their enjoyment of similar animes and similar people. This made me try to create both a content based filtering system and a collaborative filtering system to recommend animes to the user. What I would like to do is try combine both systems into one more effective system which eventually could be deployed as a website. 
 
 ## What I learnt:
 - How to replace missing or sub-optimal values in a dataset
