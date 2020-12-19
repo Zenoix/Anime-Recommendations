@@ -1,0 +1,11 @@
+name: AnimeRec
+channels:
+  - defaults
+dependencies:
+  - jupyterlab
+  - pandas
+  - scipy
+  - seaborn
+  - scikit-learn
+  - conda
+prefix: C:\Users\Jeff\anaconda3\envs\AnimeRec
