@@ -23,12 +23,13 @@ I was an avid anime fan and this lead me to pursue this project of creating a re
 
 **Python Version:** 3.8
 
-**Packages:** pandas, numpy, matplotlib, seaborn, scikit surprise
+**Packages:** 
+- pandas 1.13
+- numpy 1.19.2
+- matplotlib 3.3.2
+- seaborn 0.11.0
+- scikit surprise 1.1.1
 
-There is a `requirements.yml` file in the repo that contains all the packages I have used in this project. If you would like to install the packages easily, using Anaconda, run 
-```
-conda env create --name <<env name>> --file requirements.yml
-```
 #### Anime and Rating Datasets
 Data was downloaded from https://www.kaggle.com/CooperUnion/anime-recommendations-database.
 If you want to download the data from this repository and not the original source, you will need to either manually download them from Github, or install [Git LFS](https://git-lfs.github.com/) to download the data.
