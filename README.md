@@ -7,16 +7,23 @@ I was an avid anime fan and this lead me to pursue this project of creating a re
 - How to replace missing or sub-optimal values in a dataset
 - Creating pairplot using seaborn to compare numerical data and distributions
 - Use pandas and collections' counter to analyse frequency of values of multiple elements in strings.
+- Create content based recommendation system using the genres of a show and a user's ratings of watched shows
 
 ## Included Files:
 - Data Cleaning.ipynb (Notebook for cleaning the anime and ratings datasets that will be used)
 - Exploratory Data Analysis.ipynb (Exploring the data and trying to extract insights and patterns before building the recommendation system)
+- Content Based Filtering.ipynb (Notebook containing the code for the content based recommender)
+- Collaborative Filtering.ipynb (Notebook containing the code for the collaborative filtering recommender)
+- anime.csv (Original anime dataset)
+- rating.csv (Original user and rating data)
+- cleaned_anime.csv (The cleaned and processed anime dataset after data cleaning)
+- cleaned_rating.csv (The cleaned and processed rating dataset after data cleaning)
 
 ## Resources and Datasets Used
 
 **Python Version:** 3.8
 
-**Packages:** pandas, numpy, matplotlib, seaborn
+**Packages:** pandas, numpy, matplotlib, seaborn, scikit surprise
 
 There is a `requirements.yml` file in the repo that contains all the packages I have used in this project. If you would like to install the packages easily, using Anaconda, run 
 ```
