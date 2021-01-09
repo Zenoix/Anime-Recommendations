@@ -21,8 +21,6 @@ I was an avid anime fan and this lead me to pursue this project of creating a re
 - rating.csv (Original user and rating data)
 - cleaned_anime.csv (The cleaned and processed anime dataset after data cleaning)
 - cleaned_rating.csv (The cleaned and processed rating dataset after data cleaning)
-### Other
-- recommender.pkl (Pickle file of the collaborative filtering system - Either download manually or with Git LFS)
 
 ## Resources and Datasets Used
 
@@ -37,9 +35,5 @@ I was an avid anime fan and this lead me to pursue this project of creating a re
 
 #### Anime and Rating Datasets
 For this project, I originally used an anime dataset by CooperUnion for data cleaning, data exploration, and model building. However, as I was developing the deployment website, I though maybe I should use a more up to data dataset. This led me to use Marlesson's data which will be use for deployment purposes.
-##### Original Dataset
-Data was downloaded from https://www.kaggle.com/CooperUnion/anime-recommendations-database.
-If you want to download the data from this repository and not the original source, you will need to either manually download them from Github, or install [Git LFS](https://git-lfs.github.com/) to download the data.
-##### Deployment Dataset
-Data was downloaded from https://www.kaggle.com/marlesson/myanimelist-dataset-animes-profiles-reviews?select=reviews.csv
-If you want to download the data from this repository and not the original source, you will need to either manually download them from Github, or install [Git LFS](https://git-lfs.github.com/) to download the data
+- Original dataset: https://www.kaggle.com/CooperUnion/anime-recommendations-database.
+- Deployment dataset: https://www.kaggle.com/marlesson/myanimelist-dataset-animes-profiles-reviews
