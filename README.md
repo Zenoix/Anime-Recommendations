@@ -36,5 +36,10 @@ I was an avid anime fan and this lead me to pursue this project of creating a re
 - scikit surprise 1.1.1
 
 #### Anime and Rating Datasets
+For this project, I originally used an anime dataset by CooperUnion for data cleaning, data exploration, and model building. However, as I was developing the deployment website, I though maybe I should use a more up to data dataset. This led me to use Marlesson's data which will be use for deployment purposes.
+##### Original Dataset
 Data was downloaded from https://www.kaggle.com/CooperUnion/anime-recommendations-database.
 If you want to download the data from this repository and not the original source, you will need to either manually download them from Github, or install [Git LFS](https://git-lfs.github.com/) to download the data.
+##### Deployment Dataset
+Data was downloaded from https://www.kaggle.com/marlesson/myanimelist-dataset-animes-profiles-reviews?select=reviews.csv
+If you want to download the data from this repository and not the original source, you will need to either manually download them from Github, or install [Git LFS](https://git-lfs.github.com/) to download the data
